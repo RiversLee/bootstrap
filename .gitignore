@@ -1,5 +1,6 @@
 # Ignore docs files
 /_gh_pages/
+/site/.jekyll-metadata
 /site/docs/**/dist/
 
 # Ignore ruby files
@@ -36,9 +37,6 @@ Thumbs.db
 # Komodo
 .komodotools
 *.komodoproject
-
-# Jekyll metadata
-/docs/.jekyll-metadata
 
 # Folders to ignore
 /js/coverage/
